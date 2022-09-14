@@ -1,3 +1,6 @@
+-- PROJECT SLAYERS
+-- OPEN SOURCE ENJOY
+
 getgenv().Allow = nil
 if getgenv().Allow == nil then
     local AntiFunc = {
